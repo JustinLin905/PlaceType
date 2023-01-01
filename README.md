@@ -6,7 +6,7 @@
 
 If you simply want to download and play the game without tinkering with the source code, visit our [Itch.io Page](https://justinlin905.itch.io/placetype)! There, you can download and play the game on Windows for free.
 
-To open and edit the project, devs need an installation of Unity `2020.3`. On this GitHub page, choose "Download Zip" and extract the folder. Then, extract the folder named PlaceType.zip. Open Unity Hub and choose "Open", selecting the PlaceType folder.
+To open and edit the project, devs need an installation of Unity `2020.3`. On this GitHub page, choose "Download Zip" and extract the folder. Launch Unity Hub and choose "Open", selecting the PlaceType folder. The project will then launch.
 
 ## Gameplay
 
