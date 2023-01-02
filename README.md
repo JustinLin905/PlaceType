@@ -38,7 +38,7 @@ By raising their average typing speed, players can build a multiplier which incr
 
 ## Attributions
 
-Please note that the list of English words used to randomly generate typing missions is sourced from [The Corncob List](http://www.mieliestronk.com/wordlist.html). I've done my best to try and remove all unsightly/offensive words from the list, but it is over 58,000 words long! If you see any of these words while playing, please help me out by making a pull request to change the `wordsList.txt` file in the game source folder. I'll make sure to update the public Itch.io version too.
+Please note that the list of English words used to randomly generate typing missions is sourced from [The Corncob List](http://www.mieliestronk.com/wordlist.html). I've done my best to try and remove all unsightly/offensive words from the list, but it is over 58,000 words long! If you see any of these words while playing, please help me out by making a pull request to change the `wordsList.txt` file in PlaceType Source Files > Assets > Scripts. I'll make sure to update the public Itch.io version too.
 
 
 *The following are links to images and icons used in the UI of PlaceType.*
